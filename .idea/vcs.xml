@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../sid_purchase_views_ov" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../sid_sale_line_views_ov" vcs="Git" />
+  </component>
+</project>
